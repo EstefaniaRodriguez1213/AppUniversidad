@@ -1,0 +1,74 @@
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\ApplicationInsights.config
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\csc.exe
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\System.Collections.Immutable.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\vbc.exe
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\VBCSCompiler.exe
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\roslyn\VBCSCompiler.exe.config
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Catolica.dll.config
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Catolica.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Catolica.pdb
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.Web.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.WindowsServer.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.ApplicationInsights.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.Web.xml
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.AI.WindowsServer.xml
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.ApplicationInsights.xml
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\obj\Debug\Catolica.csprojResolveAssemblyReference.cache
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\obj\Debug\Catolica.dll
+c:\users\salta\onedrive\documentos\visual studio 2015\Projects\Catolica\Catolica\obj\Debug\Catolica.pdb
+C:\Users\salta\OneDrive\Documentos\Visual Studio 2015\Projects\Catolica\Catolica\bin\itextsharp.dll
+C:\Users\salta\OneDrive\Documentos\Visual Studio 2015\Projects\Catolica\Catolica\bin\itextsharp.xml
+C:\Users\salta\OneDrive\Documentos\Visual Studio 2015\Projects\Catolica\Catolica\bin\itextsharp.xmlworker.dll
+C:\Users\salta\OneDrive\Documentos\Visual Studio 2015\Projects\Catolica\Catolica\bin\AjaxControlToolkit.dll
+C:\Catolica\Catolica\bin\ApplicationInsights.config
+C:\Catolica\Catolica\bin\roslyn\csc.exe
+C:\Catolica\Catolica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Catolica\Catolica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Catolica\Catolica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Catolica\Catolica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Catolica\Catolica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Catolica\Catolica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Catolica\Catolica\bin\roslyn\System.Collections.Immutable.dll
+C:\Catolica\Catolica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Catolica\Catolica\bin\roslyn\vbc.exe
+C:\Catolica\Catolica\bin\roslyn\VBCSCompiler.exe
+C:\Catolica\Catolica\bin\roslyn\VBCSCompiler.exe.config
+C:\Catolica\Catolica\bin\Catolica.dll.config
+C:\Catolica\Catolica\bin\Catolica.dll
+C:\Catolica\Catolica\bin\Catolica.pdb
+C:\Catolica\Catolica\bin\AjaxControlToolkit.dll
+C:\Catolica\Catolica\bin\itextsharp.dll
+C:\Catolica\Catolica\bin\itextsharp.xmlworker.dll
+C:\Catolica\Catolica\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Catolica\Catolica\bin\Microsoft.AI.DependencyCollector.dll
+C:\Catolica\Catolica\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Catolica\Catolica\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Catolica\Catolica\bin\Microsoft.AI.Web.dll
+C:\Catolica\Catolica\bin\Microsoft.AI.WindowsServer.dll
+C:\Catolica\Catolica\bin\Microsoft.ApplicationInsights.dll
+C:\Catolica\Catolica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Catolica\Catolica\bin\itextsharp.xml
+C:\Catolica\Catolica\bin\Microsoft.AI.DependencyCollector.xml
+C:\Catolica\Catolica\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Catolica\Catolica\bin\Microsoft.AI.Web.xml
+C:\Catolica\Catolica\bin\Microsoft.AI.WindowsServer.xml
+C:\Catolica\Catolica\bin\Microsoft.ApplicationInsights.xml
+C:\Catolica\Catolica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Catolica\Catolica\obj\Debug\Catolica.csprojResolveAssemblyReference.cache
+C:\Catolica\Catolica\obj\Debug\Catolica.dll
+C:\Catolica\Catolica\obj\Debug\Catolica.pdb
